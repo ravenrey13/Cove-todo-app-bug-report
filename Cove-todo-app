@@ -1,0 +1,4 @@
+Bugs found 
+1. When the entry for Title and Description have large amounts of characters in it, the entry box does not fit the text inside and causes a bad design.
+2. Description design is snipped.
+3. Based on bug #1, if you add another entry, the new entry is behind the large amount of charactes of the higher entry.
